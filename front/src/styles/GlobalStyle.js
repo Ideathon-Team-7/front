@@ -22,7 +22,6 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
   font-family: 'Noto Sans KR', sans-serif;
-  background: linear-gradient(#b4520b, #ffc301);
 }
 
 
